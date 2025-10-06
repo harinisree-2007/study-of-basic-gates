@@ -80,5 +80,6 @@ logic diagram:
 <img width="1012" height="635" alt="Screenshot 2025-10-06 214711" src="https://github.com/user-attachments/assets/f20ef33f-b587-460c-94da-eae251d06b7c" />
 state diagram:
 
-<img width="1656" height="396" alt="Screenshot 2025-10-06 214914" src="https://github.com/user-attachments/assets/69ace419-1f58-4790-9083-af23c2ad7f76" />
+
+<img width="1920" height="299" alt="Screenshot 2025-10-06 215029" src="https://github.com/user-attachments/assets/f7abbccf-1e7f-40de-bdea-38fcb3644036" />
 Thus the given logic functions are implemented using and their operations are verified using verilog programming 
